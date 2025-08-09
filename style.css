@@ -152,6 +152,10 @@ footer {
         letter-spacing: 1px;
     }
 
+    h1 {
+        font-size: 5rem;
+    }
+
     img {
         width: 180px;
     }
