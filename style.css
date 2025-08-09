@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    border: 1rem solid var(--main-color);
+    border: 1.5rem solid var(--main-color);
     padding: 4rem;
     background: #ececec;
     flex-direction: column;
